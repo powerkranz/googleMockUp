@@ -6,10 +6,16 @@
 }
 
 .searchbar {
-  width: 123px;  
+  width: 604px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
   height: auto;
   border: none;
+}
+
+input[type="text"] {
+  width: 600px;
+  height: 38px;
+  font-size: 16pt;
 }
